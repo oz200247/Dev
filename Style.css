@@ -1,8 +1,8 @@
 h2 {
-        color:red;
+        color:black;
 }
 h3 {
-        color: green;
+        color: black;
 }
 p  {
         background-color: white;
@@ -26,10 +26,10 @@ img {
   background-color: white;
 }
 .col2 {
-  border: 5px solid white;
+  border: 2px solid white;
 }
 .col1 h1 {
-  color: white;
+  color: black;
 }
 .nav-items li , .inline-block{
   display: inline-block;
